@@ -1,4 +1,6 @@
-# ViewQwest Starter Template
+# ViewQwest Starter 
+
+![alt text](https://github.com/adnin-viewqwest/vq-template/blob/main/src/assets/demo.PNG)
 
 ### Benefits
 
